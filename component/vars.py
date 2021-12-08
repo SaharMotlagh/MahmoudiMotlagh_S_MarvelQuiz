@@ -1,4 +1,7 @@
-quizTotal = 5
+from PIL.Image import Image
+
+
+quizTotal = 0
 
 charcter = ["Tulip", "Daffodil", "Sunflower", "Bluebell", "Cherry blossom"]
-emoji = [":heart:", ":purple_heart:", ":yellow_heart:", ":blue_heart:", ":two_hearts:"]
+Image = ["Tulip.jpg", "Daffodil.png", "Sunflower.jpg", "Bluebell.jpg", "Cherry blossom.jpg"]
