@@ -3,7 +3,7 @@
 
 ## Marvel Quiz!
 <br>
-Answer the question to pick the folowers. Every single folower has it own score.
+Answer the questions to pick folowers. Every single folower has it own score.
 
 ### Installation
 <br>
@@ -30,10 +30,9 @@ Commit your changes: git commit -am 'Add some feature'
 Push to the branch: git push origin my-new-feature
 Submit a pull request :D
 ### Credits
-Lets get Started:
+Image:
 <br>
-All the photos are taken by me, although logo is designed by me.
-junkfood Illustration is from Freepik.
+https://www.seekpng.com/ipng/u2q8q8e6a9o0a9q8_and-no-check-mark-yes-and-no-clipart/
 <br>
 Enjoy!
 
