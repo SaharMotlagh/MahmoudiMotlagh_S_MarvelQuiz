@@ -1,5 +1,5 @@
 # MahmoudiMotlagh_s_MarvelQuiz
-![Marvel Quiz](game.jpg "yes/no game")
+![Marvel Quiz](yes-no.png "yes/no game")
 
 ## Marvel Quiz!
 <br>
