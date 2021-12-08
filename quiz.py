@@ -1,11 +1,13 @@
 from component.quizQuestion import questions
 from component import vars,quizTally
+from PIL import Image
+
 
 answer1 = questions ["q1"] [input(questions["q1"]["question"])]
 print(answer1)
 
 vars.quizTotal += answer1
-print("+++++++++++++++++++++++++\n")
+print("line.show()")
 
 answer2 = questions ["q2"] [input(questions["q2"]["question"])]
 print(answer2)
@@ -34,3 +36,6 @@ print("+++++++++++++++++++++++++\n")
 print("total so far: " + str(vars.quizTotal) + "\n")
 
 quizTally.total(vars.quizTotal)
+
+
+
